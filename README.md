@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ryan!
 
-<!--
-**DomRyaan/DomRyaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+ Sou Ryan Rodrigues, um desenvolvedor apaixonado e dedicado a criar soluções inovadoras. Atualmente, estou cursando faculdade de Desenvolvimento Mobile, onde estou aprimorando minhas habilidades e conhecimentos para me tornar um especialista na área.
 
-Here are some ideas to get you started:
+🌍 Localização: Fortaleza, CE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Habilidades:
+
+Linguagens: **Python**, **SQL** e **Javascript**
+
+Frameworks: **Flask**
+
+Ferramentas: **Git**, **SQLite**, **Pandas**, **Matplotlib**
+
+Contato
+📧 Email: ryanrodriguues06@gmail.com 
+
+💼 LinkedIn: www.linkedin.com/in/ryanrodriguues
+
+📷 Instagram: https://www.instagram.com/dom_ryaan
+
+Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e projetos. Sempre estou aberto a novas oportunidades e colaborações. 🚀
