@@ -115,7 +115,7 @@ Me chamo Ryan Rodrigues, tenho 20 anos e estou cursando ensino superior de Desen
 ### 📊 Estatísticas
 
 <p>
-  <img 
+ <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
