@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack Python, Desenvolvedor Android & Ciência de Dados`**
 
-Me chamo Ryan Rodrigues, tenho 20 anos e estou cursando ensino superior de Desenvolvimento Mobile. Desde pequeno, sou entusiasta de Ciência e Tecnologia, e por isso, estou constantemente buscando aprender novas coisas. Atualmente, tenho trabalhado de forma autonoma buscando soluções digitais no negócio da familia(Restaurante). Estou sempre compartilhando novas ideias no meu Linkedin "[Ryan Rodrigues](https://www.linkedin.com/in/ryanrodriguues)" e sempre estou escrevendo para o meu "[Site](https://meuportifolioblog.netlify.app)"
+Me chamo Ryan Rodrigues, tenho 20 anos e estou cursando ensino superior de Desenvolvimento Mobile. Desde pequeno, sou entusiasta de Ciência e Tecnologia, e por isso, estou constantemente buscando aprender novas coisas. Atualmente, tenho trabalhado de forma autonoma buscando soluções digitais no negócio da familia(Restaurante). Estou sempre compartilhando novas ideias no meu Linkedin "[Ryan Rodrigues](https://www.linkedin.com/in/ryanrodriguues)" e sempre estou escrevendo para o meu "[Site](https://domryaan.netlify.app)"
 
 <p align="left">
     <a href="https://github.com/DomRyaan?tab=repositories&sort=stargazers">
