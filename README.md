@@ -1,7 +1,7 @@
 <img
     src="./imgRead.gif"
-    width="600" 
-    height="250">
+    width="100%" 
+    height="250px">
 **`Desenvolvedor FullStack Python, Desenvolvedor Android & Ciência de Dados`**
 
 Me chamo Ryan Rodrigues, estou cursando ensino superior de Desenvolvimento Mobile. Desde pequeno, sou entusiasta de Ciência e Tecnologia, e por isso, estou constantemente buscando aprender novas coisas. Atualmente, tenho trabalhado de forma autonoma buscando soluções digitais no negócio da familia(Restaurante). Estou sempre compartilhando novas ideias no meu Linkedin "[Ryan Rodrigues](https://www.linkedin.com/in/ryanrodriguues)" e sempre estou escrevendo para o meu [Site](https://domryaan.netlify.app)
