@@ -1,8 +1,10 @@
-# 👑 Ryan Rodrigues
-
+<img
+    src="./imgRead.gif"
+    width="600" 
+    height="250">
 **`Desenvolvedor FullStack Python, Desenvolvedor Android & Ciência de Dados`**
 
-Me chamo Ryan Rodrigues, tenho 20 anos e estou cursando ensino superior de Desenvolvimento Mobile. Desde pequeno, sou entusiasta de Ciência e Tecnologia, e por isso, estou constantemente buscando aprender novas coisas. Atualmente, tenho trabalhado de forma autonoma buscando soluções digitais no negócio da familia(Restaurante). Estou sempre compartilhando novas ideias no meu Linkedin "[Ryan Rodrigues](https://www.linkedin.com/in/ryanrodriguues)" e sempre estou escrevendo para o meu "[Site](https://domryaan.netlify.app)"
+Me chamo Ryan Rodrigues, estou cursando ensino superior de Desenvolvimento Mobile. Desde pequeno, sou entusiasta de Ciência e Tecnologia, e por isso, estou constantemente buscando aprender novas coisas. Atualmente, tenho trabalhado de forma autonoma buscando soluções digitais no negócio da familia(Restaurante). Estou sempre compartilhando novas ideias no meu Linkedin "[Ryan Rodrigues](https://www.linkedin.com/in/ryanrodriguues)" e sempre estou escrevendo para o meu [Site](https://domryaan.netlify.app)
 
 <p align="left">
     <a href="https://github.com/DomRyaan?tab=repositories&sort=stargazers">
@@ -24,6 +26,7 @@ Me chamo Ryan Rodrigues, tenho 20 anos e estou cursando ensino superior de Desen
 ---
 
 ### 🤖 Linguagens e Tecnologias
+---
 <img 
     align="left" 
     alt="Python" 
@@ -79,7 +82,7 @@ Me chamo Ryan Rodrigues, tenho 20 anos e estou cursando ensino superior de Desen
 <img
     align="left"
     width="30px"
-    style="padding-right: 10px; background-color: #FFFFFF"
+    style="padding: 2px; background-color: #FFFFFF; border-radius: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" 
 />
 <img 
