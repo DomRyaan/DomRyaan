@@ -79,7 +79,7 @@ Me chamo Ryan Rodrigues, tenho 20 anos e estou cursando ensino superior de Desen
 <img
     align="left"
     width="30px"
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; background-color: #FFFFFF"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" 
 />
 <img 
